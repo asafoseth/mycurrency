@@ -1,6 +1,7 @@
 # mycurrency
 Convert currencies
 This is a simple project on PWA to convert currencies.
-The main functionalities:
-  1) Convert from one currency to another
-  2) Should be available to user even while offline.
+Application Functions
+At minimum users are able to:
+>> Select currencies to be converted from and to
+>> Convert currencies while the application is online or offline

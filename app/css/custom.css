@@ -1,0 +1,22 @@
+.main-panel{
+    margin: auto;
+}
+
+.panel{
+    border: 3px solid darkblue;
+}
+
+div.row{
+    padding: 10px
+}
+
+.header{
+    background-color: darkblue;
+    color:white;
+    font-weight: bold;
+}
+
+.jumboton{
+    padding: 10px;
+    align-content: center;
+}
